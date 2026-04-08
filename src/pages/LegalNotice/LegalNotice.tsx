@@ -4,7 +4,7 @@ const LegalNotice = () => {
     return (
         <main>
             <CollapsibleDiv title={"Conditions d'utilisation"}>
-                <p>Dernière mise à jour : 2 Octobre 2025</p>
+                <p>Dernière mise à jour : 8 Avril 2026</p>
                 <p>
                     Les présentes Conditions d’Utilisation ont pour but d’encadrer l’accès et l’usage de
                     l’application ItsCloudy par les utilisateurs.
@@ -249,7 +249,7 @@ const LegalNotice = () => {
                     </li>
                 </ul>
                 <p>
-                    Pour exercer l'un de ces droits, veuillez nous contacter à <a href="mailto:application.ged@gmail.com">application.ged@gmail.com</a>. Nous répondrons à votre demande conformément aux lois applicables.
+                    Pour exercer l'un de ces droits, veuillez nous contacter à <a href="mailto:mfoumbymourchidid@gmail.com">mfoumbymourchidid@gmail.com</a>. Nous répondrons à votre demande conformément aux lois applicables.
                 </p>
 
                 <h4>4.1 Paramètres de l'appareil</h4>
@@ -322,7 +322,7 @@ const LegalNotice = () => {
                 <h3>10. Nous contacter</h3>
                 <p>
                     Si vous avez des questions ou des préoccupations concernant cette
-                    politique de confidentialité, veuillez nous contacter à : <a href="mailto:application.ged@gmail.com">application.ged@gmail.com</a>.
+                    politique de confidentialité, veuillez nous contacter à : <a href="mailto:mfoumbymourchidid@gmail.com">mfoumbymourchidid@gmail.com</a>.
                 </p>
             </CollapsibleDiv>
         </main>
